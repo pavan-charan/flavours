@@ -11,6 +11,7 @@ Welcome to **Flavours and Fables**, a restaurant management website designed to 
   <source src="https://github.com/pavan-charan/flavours/blob/master/Flavours_and_fables%20demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ### 🛒 User Side
 - **Menu Browsing** – View and explore a variety of dishes.
 - **Cart System** – Add, remove, and modify items in the cart.
