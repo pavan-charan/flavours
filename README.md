@@ -8,7 +8,7 @@ Welcome to **Flavours and Fables**, a restaurant management website designed to 
 ## 🚀 Features
 ## 📽️ Demo Video
 <video width="600" controls>
-  <source src="[https://github.com/pavan-charan/flavours/blob/master/Flavours_and_fables%20demo.mp4](https://drive.google.com/file/d/1mlTP61Fv84uwV1F-Iu7qJHNDLyO7WLdv/view?usp=sharing)" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1mlTP61Fv84uwV1F-Iu7qJHNDLyO7WLdv/view?usp=sharing" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
