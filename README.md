@@ -31,7 +31,7 @@ Welcome to **Flavours and Fables**, a restaurant management website designed to 
 1. **Clone the repository**
    ```bash
    git clone 
-   cd flavours-and-fables
+   cd flavours-and-fables https://github.com/pavan-charan/flavours/tree/master
    ```
 2. **Install dependencies**
    ```bash
